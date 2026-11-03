@@ -1,0 +1,23 @@
+# Dataset tulisan tangan (data pribadi kelas, berisi NIM) — tidak dipublikasikan
+data_raw/
+*.zip
+
+# Fitur GLCM per citra (kolom kelas berisi NIM; dapat dibuat ulang dari notebook)
+hasil/fitur_glcm.csv
+
+# Soal tugas dari dosen
+*.pdf
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
