@@ -1,4 +1,4 @@
-# Klasifikasi Citra Tulisan Tangan — Dataset MLE
+# Klasifikasi Citra Tulisan Tangan — Dataset ML
 
 Tugas mata kuliah Machine Learning: identifikasi penulis dari citra tulisan tangan (44 penulis, 2.311 citra) menggunakan ekstraksi fitur GLCM + classifier klasik dan dua arsitektur deep learning.
 
@@ -46,9 +46,4 @@ data_raw/MLE/                 dataset (tidak disertakan di repo)
    Untuk GPU NVIDIA, pasang PyTorch versi CUDA sesuai petunjuk di [pytorch.org](https://pytorch.org/get-started/locally/).
 3. Jalankan seluruh sel di `Klasifikasi_Citra_MLE.ipynb`.
 
-## Anggota Kelompok
 
-| NIM | Nama | Tugas yang Dikerjakan |
-|---|---|---|
-| ... | ... | ... |
-| ... | ... | ... |
